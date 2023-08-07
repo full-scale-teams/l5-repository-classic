@@ -9,6 +9,12 @@
     "cache"
   ],
   "license": "MIT",
+  "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/ctberdon/laravel-validator"
+    }
+  ],
   "authors": [
     {
       "name": "Anderson Andrade",
