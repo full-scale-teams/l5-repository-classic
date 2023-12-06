@@ -1,5 +1,5 @@
 {
-  "name": "ctberdon/l5-repository",
+  "name": "gigabooksite/l5-repository",
   "description": "Laravel 5|6|7|8|9|10 - Repositories to  the database layer",
   "keywords": [
     "laravel",
@@ -9,12 +9,6 @@
     "cache"
   ],
   "license": "MIT",
-  "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/ctberdon/laravel-validator"
-    }
-  ],
   "authors": [
     {
       "name": "Anderson Andrade",
@@ -39,8 +33,8 @@
     "illuminate/pagination": "~5.0|~6.0|~7.0|^8.0|^9.0|^10.0",
     "illuminate/console": "~5.0|~6.0|~7.0|^8.0|^9.0|^10.0",
     "illuminate/filesystem": "~5.0|~6.0|~7.0|^8.0|^9.0|^10.0",
-    "ctberdon/laravel-validation": "dev-master",
-    "illuminate/validation": "~5.0|~6.0|~7.0|^8.0|^9.0|^10.0"
+    "illuminate/validation": "~5.0|~6.0|~7.0|^8.0|^9.0|^10.0",
+    "gigabooksite/laravel-validation": "^1.0"
   },
   "autoload": {
     "psr-4": {
